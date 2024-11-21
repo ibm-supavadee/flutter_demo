@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
           margin: EdgeInsets.only(left: 30),
           padding: EdgeInsets.only(left: 30),
           child: Text(
-            "Pung",
+            "Ying",
             style: TextStyle(color: Colors.blue, fontSize: 150),
           ),
         ),
